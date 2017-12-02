@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: org.springboot.sampleproject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Desktopadmin
+Implementation-Vendor-Id: org.springboot.sampleproject
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/org.springbo
+ ot.sampleproject/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
